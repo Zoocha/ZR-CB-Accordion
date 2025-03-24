@@ -1,0 +1,11 @@
+uuid: aa29e6d4-d2fc-4330-8bc8-3e069f5d09db
+langcode: en
+status: true
+dependencies: {  }
+id: accordion
+block_id: 'inline_block:accordion'
+category: zoocha_components
+label: Accordion
+image_path: ''
+image_alt: ''
+weight: null
