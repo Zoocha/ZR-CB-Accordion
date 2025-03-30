@@ -2,7 +2,7 @@ name: 'ZC Accordion'
 description: 'Installs Zoocha Accordion Component'
 type: 'Feature'
 recipes:
-  - cke5-recipe
+  - zr-cke5-recipe
   - zr-layout-builder-bundle
   - zr-paragraph-bundle
 
